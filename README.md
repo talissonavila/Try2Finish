@@ -1,2 +1,2 @@
 # Try2Finish
-Jogo finalizado com 4 fases.
+Demo finalizado com 4 fases.
