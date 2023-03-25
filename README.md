@@ -30,26 +30,26 @@ Try2Finish é um jogo Desenvolvido em plataforma 2D na Unity com scripts em C#.
 
 # Protótipos de baixa fidelidade
 ## **Aqui contém algumas imagens do jogo em funcionamento.**
-1. Abaixo está a imagem da tela inicial do jogo. Nela dá pra ver a primeira fase do jogo com animação nas maçãs bem como no checkpoint que lhe leva para próxima fase.
+1. Abaixo está a imagem da tela inicial do jogo. Nela dá pra ver a primeira fase do jogo com animação nas maçãs bem como no checkpoint que lhe leva para próxima fase. Para começar o jogo se faz necessário clicar no botão 'START GAME'.
 
-![Tela Inicial de Try2Finish](C:/Users/Talissondev/Desktop/ifce/2023.1/icg/newgame.png)
+![Tela Inicial de Try2Finish](https://github.com/talissonavila/Try2Finish/blob/try2finish_build/images/newgame.png)
 
 2. Abaixo está a imagem da primeira fase do jogo. Por ser a primeira fase, não contém inimigos ou obstáculos, para que o jogador crie familiaridade com o jogo.
 
-![Fase 1 Try2Finish](C:\Users\Talissondev\Desktop\ifce\2023.1\icg\phase1.png)
+![Fase 1 Try2Finish](https://github.com/talissonavila/Try2Finish/blob/try2finish_build/images/phase1.png)
 
 3. Abaixo está a imagem da segunda fase do jogo. Percebe-se uma diferença nos blocos que compõe o cenário, assim como adição de obstáculos.
 
-![Fase 2 Try2Finish](C:\Users\Talissondev\Desktop\ifce\2023.1\icg\phase2.png)
+![Fase 2 Try2Finish](https://github.com/talissonavila/Try2Finish/blob/try2finish_build/images/phase2.png)
 
 3. Abaixo está a imagem da terceira fase do jogo. Diferente no cenário das outras fases anteriores, como adição de outros obstáculos, para que o jogador sinta uma progressão de nível durante o jogo.
 
-![Fase 3 de Try2Finish](C:\Users\Talissondev\Desktop\ifce\2023.1\icg\phase3.png)
+![Fase 3 de Try2Finish](https://github.com/talissonavila/Try2Finish/blob/try2finish_build/images/phase3.png)
 
 4. Abaixo está a imagem da quarta fase do jogo. Novamente, há uma diferença na composição do cenário em relação as fases anteriores, assim como na adição de obstáculos novos e de inimigos.
 
-![Fase 4 de Try2Finish](C:\Users\Talissondev\Desktop\ifce\2023.1\icg\phase4.png)
+![Fase 4 de Try2Finish](https://github.com/talissonavila/Try2Finish/blob/try2finish_build/images/phase4.png)
 
 5. Ao falhar durante as fases de Try2Finish, entrará a tela de 'Fim de Jogo' que dará a chance do jogador tentar novamente, após clicar em 'RESTART GAMING', levando-o para a fase inicial do jogo.
 
-![Tela de Fim de Jogo de Try2Finish](C:\Users\Talissondev\Desktop\ifce\2023.1\icg\gameover.png)
+![Tela de Fim de Jogo de Try2Finish](https://github.com/talissonavila/Try2Finish/blob/try2finish_build/images/gameover.png)
