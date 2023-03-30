@@ -1,5 +1,5 @@
 # Documentação de Try2Finish
-Try2Finish é um jogo Desenvolvido em plataforma 2D na Unity com scripts em C#.
+Try2Finish é um jogo Desenvolvido em plataforma 2D na [Unity](https://pt.wikipedia.org/wiki/Unity) com scripts em [C#](https://pt.wikipedia.org/wiki/C_Sharp).
 - Para acessar a build em desenvolvimento do jogo acesse [aqui](https://github.com/talissonavila/Try2Finish/tree/try2finish_build).
 - Caso encontre algum bug ou queira inserir alguma funcionalidade, abra uma issue no repositório do projeto que os desenvolvedores verão e arrumarão o bug ou verão a viabilidade de implantação de tal funcionalidade.
 
@@ -53,3 +53,16 @@ Try2Finish é um jogo Desenvolvido em plataforma 2D na Unity com scripts em C#.
 5. Ao falhar durante as fases de Try2Finish, entrará a tela de 'Fim de Jogo' que dará a chance do jogador tentar novamente, após clicar em 'RESTART GAMING', levando-o para a fase inicial do jogo.
 
 ![Tela de Fim de Jogo de Try2Finish](https://github.com/talissonavila/Try2Finish/blob/try2finish_build/images/gameover.png)
+
+# Instalação
+1. Acesse a build em desenvolvimento, clicando [aqui](https://github.com/talissonavila/Try2Finish/tree/try2finish_build).
+2. Baixe o arquivo compactado.
+3. Descompacte-o pelo seu descompactador de preferência.
+4. Abra a pasta Build.
+5. Execute o arquivo Try2Finish.exe.
+6. Aproveite sua jogatina.
+
+# Créditos
+- Hellyson Herik da Silva Costa (desenvolvedor).
+- Talisson Freitas Avila (desenvolvedor).
+- Walber Florêncio de Almeida(orientador).
