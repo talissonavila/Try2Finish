@@ -65,4 +65,4 @@ Try2Finish é um jogo Desenvolvido em plataforma 2D na [Unity](https://pt.wikipe
 # Créditos
 - Hellyson Herik da Silva Costa (desenvolvedor).
 - Talisson Freitas Avila (desenvolvedor).
-- Walber Florêncio de Almeida(orientador).
+- Walber Florêncio de Almeida (orientador).
